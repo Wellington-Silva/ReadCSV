@@ -1,0 +1,42 @@
+﻿Id;Disciplina;PreRequisito;Período;Creditos;NecessariaPara
+8;Arquitetura e Organização de Computadores;Introdução à Computação;2;4;2
+13;Paradigma Orientado a Objetos;Fundamentos de Programação;2;6;4
+19;Modelagem de Dados;25 créditos;3;4;2
+16;Análise Orientada a Objetos;Paradigma Orientado a Objetos;3;4;0
+20;Sistemas Operacionais;Arquitetura e Organização de Computadores;3;4;1
+15;Algoritmos e Estrutura de Dados I;Paradigma Orientado a Objetos;3;6;1
+10;Engenharia de Software;25 créditos;3;4;4
+25;Projeto de Banco de Dados;Modelagem de dados;4;4;1
+26;Qualidade de Software;Engenharia de Software;4;4;1
+21;Algoritmos e Estrutura de Dados II;Algoritmos e Estrutura de Dados I;4;4;2
+23;Padrões de Projeto e Arquitetura de Software;Paradigma Orientado a Objetos;4;4;0
+27;Redes de Computadores;Arquitetura e Organização de Computadores;4;4;2
+28;Administração de Banco de Dados;Projeto de Banco de Dados;5;4;2
+32;Teste de Software;Qualidade de Software;5;2;1
+34;Gerência de Projetos;Engenharia de Software;5;4;2
+31;Projeto Integrador I;Modelagem de dados;5;2;0
+31;Projeto Integrador I;Análise Orientada a Objeto;5;2;0
+31;Projeto Integrador I;Engenharia de Software;5;2;0
+30;Programação Web I;Padrões de Projeto;5;4;3
+30;Programação Web I;Arquitetura de Software;5;4;3
+29;Laboratório de Redes de Computadores;Redes de Computadores;5;4;1
+39;Sistema de Apoio a Decisão;Administração de Banco de Dados;6;4;0
+35;Introdução à Interação HumanoComputador;Engenharia de Software;6;2;1
+36;Modelagem de Processo de Negócio;30 créditos;6;2;0
+37;Governança em TI;Gerência de Projetos;6;4;0
+38;Programação Web II;Programação Web I;6;6;0
+40;Sistemas Distribuídos;Sistemas Operacionais;6;2;0
+40;Sistemas Distribuídos;Laboratório de Redes de Computadores;6;2;0
+43;Projeto e Análise de Algoritmos;Algoritmos e Estrutura de Dados II;7;2;0
+47;Trabalho de Conclusão de Curso I;127 créditos;7;1;1
+45;Segurança e Auditoria em Sistemas de Informação;Redes de Computadores;7;2;0
+45;Segurança e Auditoria em Sistemas de Informação;Programação Web I;7;2;0
+44;Projeto Integrador II;Programação Web I;7;4;0
+44;Projeto Integrador II;Administração de Banco de Dados;7;4;0
+44;Projeto Integrador II;Gerência de Projetos;7;4;0
+44;Projeto Integrador II;Teste de Software;7;4;0
+44;Projeto Integrador II;Introdução à Interação HumanoComputador;7;4;0
+42;Programação para Dispositivos Móveis;Paradigma Orientado a Objetos;7;4;0
+41;Orientação de Estágio;70 créditos;7;2;0
+Computação Inteligente;Algoritmos e Estrutura de Dados II;8;4;0;
+Trabalho de conclusão de curso II;Trabalho de conclusão de curso I;8;4;0;

@@ -1,0 +1,5 @@
+C:\Users\Wellington\Documents\Git\WebII_CSV\obj\Release\net6.0\WebII_CSV.csproj.AssemblyReference.cache
+C:\Users\Wellington\Documents\Git\WebII_CSV\obj\Release\net6.0\WebII_CSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wellington\Documents\Git\WebII_CSV\obj\Release\net6.0\WebII_CSV.AssemblyInfoInputs.cache
+C:\Users\Wellington\Documents\Git\WebII_CSV\obj\Release\net6.0\WebII_CSV.AssemblyInfo.cs
+C:\Users\Wellington\Documents\Git\WebII_CSV\obj\Release\net6.0\WebII_CSV.csproj.CoreCompileInputs.cache
