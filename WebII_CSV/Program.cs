@@ -59,7 +59,6 @@ namespace WebII
                     DisplaySqlErrors(e);
                 }
             }
-            //sqlConn.Close();
 
             //=======================================================================================
 
@@ -70,7 +69,6 @@ namespace WebII
 
             using StreamReader CSV2 = new StreamReader(path);
             string lineP = CSV.ReadLine();
-            //sqlConn.Open();
 
             while (!CSV2.EndOfStream)
             {
